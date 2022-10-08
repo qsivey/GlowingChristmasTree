@@ -1,0 +1,209 @@
+*************************************************************
+FileName = Part2_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Part2_PCB_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Part2_PCB_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Part2_PCB_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Part2_PCB_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Part2_PCB_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Part2_PCB_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Part2_PCB_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Part2_PCB_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Part2_PCB_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Part2_PCB_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Part2_PCB_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Part2_PCB_Profile.gbr
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Part2_PCB_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Part2_PCB_PTH_Drill.gbr
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Part2_PCB_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Part2_PCB_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D19
+*************************************************************
+
